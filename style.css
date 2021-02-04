@@ -1,0 +1,31 @@
+.border-top{
+    border-top: 2px solid grey;
+
+}
+
+.border-bottom {
+    border-bottom: 10px grey;
+}
+
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-warp{
+    background-image: url(https://fastly.syfy.com/sites/syfy/files/2019/09/enterprise-at-warp-tmp.jpg);
+    background-size: cover;
+    height: 50vh;
+}
+
+.col-height {
+    height: 40vh;
+}
+
+.img-268 {
+    width: 268px;
+    height: 268px;
+}
+
+.img-568 {
+    width: 568px;
+    height: 320px;
+}
