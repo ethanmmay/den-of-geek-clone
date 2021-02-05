@@ -20,6 +20,10 @@
     height: 40vh;
 }
 
+.img-235 {
+    width: 235px;
+    height: 235px;
+}
 .img-268 {
     width: 268px;
     height: 268px;
@@ -32,4 +36,9 @@
 
 .bg-gray {
    background-color: #e9eff3;
+
+}
+
+.bg-lightgrey {
+    background-color: lightgrey;
 }
