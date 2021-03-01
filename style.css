@@ -1,3 +1,10 @@
+:root {
+    
+}
+body{
+    font-family: 'Lobster Two', cursive;
+}
+
 .border-top{
     border-top: 2px solid grey;
 
